@@ -1,3 +1,5 @@
+#This project contains the code to create a temporary array and manipulating it using mock server for adding, deleting records
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

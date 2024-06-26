@@ -2,12 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import AddPost from './AddPost';
+import DeletePost from './DeletePost';
+import SearchPost from './SearchPost';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <AddPost />
+    <DeletePost />
+    <SearchPost />
   </React.StrictMode>
 );
 
